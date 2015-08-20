@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bacon">bacon</string>
+    <string name="baconText">Bacon</string>
+    <string name="baconButtonText">New Button</string>
+    <string name="button_text">text</string>
+    <string name="apple_text">text2</string>
+</resources>
